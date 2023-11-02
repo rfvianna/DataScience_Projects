@@ -16,6 +16,6 @@ This repository contains the following projects, presented on Jupyter Notebook f
   
 - ["**Malnutrition_Clustering**"](https://github.com/rfvianna/DataScience_Projects/blob/main/Malnutrition_Clustering/ClusteringProject_Malnutrition.ipynb)
 
-  - Objective: cluster countries with similar malnutrition indexes. Also, given the analysis it's possible to establish targeted campaigns for the countries in each group, such as: humanitarian relief, campaigns against obesity and so on.
+  - Objective: cluster countries with similar malnutrition indexes. Also, given the analysis it's possible to establish targeted campaigns for the countries in each group, such as humanitarian relief and campaigns against obesity.
 
 This repository is **strictly in English**, for analyses in Portuguese go to the ["**Projetos Ciência de Dados**"](https://github.com/rfvianna/Projetos_CienciaDados) repository. | Esse repositório é **somente em inglês**, para análises em português clique em ["**Projetos Ciência de Dados**"](https://github.com/rfvianna/Projetos_CienciaDados).
