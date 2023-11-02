@@ -2,7 +2,7 @@
 This repository contains the following projects, presented on Jupyter Notebook format:
 - **CarPrices_Regression**
   
-        - Objective: estimate a vehicle's value/price based on the features from a given dataset. Also, regression and pricing analysis can provide a better understanding as to underlying factors that can cause depreciation of a vehicle's value.
+  - Objective: estimate a vehicle's value/price based on the features from a given dataset. Also, regression and pricing analysis can provide a better understanding as to underlying factors that can cause depreciation of a vehicle's value.
   
 - **EuropeanSkiResorts_Regression**
   
